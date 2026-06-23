@@ -1,0 +1,17 @@
+GRAPH TRAVERSAL:
+A
+B
+D
+C
+F
+E
+G
+H
+
+All paths:
+A
+B
+C
+E
+
+SHORTEST PATH OF GRAPH IS: ['A', 'B', 'C', 'E']
