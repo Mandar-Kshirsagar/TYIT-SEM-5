@@ -37,7 +37,9 @@
 
 ### 📂 Others
 
-> _Other resources coming soon_
+| File | Description |
+|------|-------------|
+| [AI.pdf](AI/Others/AI.pdf) | AI Reference Material |
 
 ---
 
@@ -61,7 +63,9 @@
 
 ### 📂 Others
 
-> _Other resources coming soon_
+| File | Description |
+|------|-------------|
+| [The DevOps Adoption Playbook](DevOps/Others/Wiley_The_DevOps_Adoption_Playbook_1119308747.pdf) | DevOps Reference Book (Wiley) |
 
 ---
 
@@ -85,7 +89,9 @@
 
 ### 📂 Others
 
-> _Other resources coming soon_
+| File | Description |
+|------|-------------|
+| [practical_mongodb.pdf](BDNS/Others/practical_mongodb.pdf) | MongoDB Practical Reference |
 
 ---
 
@@ -117,7 +123,9 @@
 
 ### 🔬 Practicals
 
-> _Practicals coming soon_
+| # | Topic | Files |
+|---|-------|-------|
+| 1 | Practical 1 | [practical1.pdf](ASP.NET/Practicals/practical1.pdf) |
 
 ### 📝 Notes
 
