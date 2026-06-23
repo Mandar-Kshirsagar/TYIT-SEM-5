@@ -95,6 +95,7 @@
 | File | Description |
 |------|-------------|
 | [The DevOps Adoption Playbook](DevOps/Others/Wiley_The_DevOps_Adoption_Playbook_1119308747.pdf) | DevOps Reference Book (Wiley) |
+| [DevOps for Digital Leaders](DevOps/Others/DevOps_for_Digital_Leaders.pdf) | DevOps Reference Book |
 
 ---
 
