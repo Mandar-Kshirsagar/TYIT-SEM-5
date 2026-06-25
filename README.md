@@ -15,6 +15,64 @@
 
 ---
 
+## 📊 Dashboard
+
+> Live snapshot of all uploaded resources across subjects. Total: **82 files** across 6 subjects.
+
+### 📦 Files per Subject
+
+```mermaid
+xychart-beta
+    title "Total Files per Subject"
+    x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
+    y-axis "Number of Files" 0 --> 25
+    bar [19, 17, 14, 17, 15, 0]
+```
+
+### 🗂️ Files by Category
+
+```mermaid
+pie title Files by Category
+    "PYQs" : 56
+    "PY Notes" : 14
+    "Practicals" : 6
+    "Others" : 4
+    "Notes" : 2
+    "Assignments" : 0
+```
+
+### 📈 Category Breakdown per Subject
+
+```mermaid
+xychart-beta
+    title "PYQs per Subject"
+    x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
+    y-axis "PYQs" 0 --> 20
+    bar [11, 10, 10, 15, 10, 0]
+```
+
+```mermaid
+xychart-beta
+    title "PY Notes per Subject"
+    x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
+    y-axis "PY Notes" 0 --> 6
+    bar [1, 5, 3, 1, 4, 0]
+```
+
+### 📋 Full Breakdown Table
+
+| Subject | 🔬 Practicals | 📝 Notes | 📓 PY Notes | 📌 Assignments | 📄 PYQs | 📂 Others | 📦 Total |
+|---------|:------------:|:--------:|:-----------:|:--------------:|:-------:|:---------:|:--------:|
+| AI | 4 | 2 | 1 | 0 | 11 | 1 | **19** |
+| DevOps | 0 | 0 | 5 | 0 | 10 | 2 | **17** |
+| BDNS | 0 | 0 | 3 | 0 | 10 | 1 | **14** |
+| IoT | 1 | 0 | 1 | 0 | 15 | 0 | **17** |
+| ASP.NET | 1 | 0 | 4 | 0 | 10 | 0 | **15** |
+| OJT | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| **Total** | **6** | **2** | **14** | **0** | **56** | **4** | **82** |
+
+---
+
 ## 1. AI — Artificial Intelligence
 
 ### 🔬 Practicals
@@ -29,6 +87,12 @@
 |-------|------|
 | Unit 1 - Introduction | [Unit-1-Chapter-1-Introduction.pdf](AI/Notes/Unit-1-Chapter-1-Introduction.pdf) |
 | Chapter 2 - Intelligent Agent | [Chapter-2-Intelligent-Agent.pdf](AI/Notes/Chapter-2-Intelligent-Agent.pdf) |
+
+### 📓 PY Notes
+
+| Unit | File |
+|------|------|
+| Unit 2 | [AI\_Unit\_2\_Notes.pdf](AI/PY%20Notes/AI_Unit_2_Notes.pdf) |
 
 ### 📌 Assignments
 
@@ -72,6 +136,16 @@
 
 > _Notes coming soon_
 
+### 📓 PY Notes
+
+| Unit | File |
+|------|------|
+| General Notes | [DevOps\_General\_Notes.pdf](DevOps/PY%20Notes/DevOps_General_Notes.pdf) |
+| Unit 2 | [DevOps\_Unit\_2\_Notes.pdf](DevOps/PY%20Notes/DevOps_Unit_2_Notes.pdf) |
+| Unit 2 (Short) | [DevOps\_Unit\_2\_Short\_Notes.pdf](DevOps/PY%20Notes/DevOps_Unit_2_Short_Notes.pdf) |
+| Unit 3 & 4 | [DevOps\_Unit\_3\_4\_Notes.pdf](DevOps/PY%20Notes/DevOps_Unit_3_4_Notes.pdf) |
+| Unit 4 & 5 | [DevOps\_Unit\_4\_5\_Notes.pdf](DevOps/PY%20Notes/DevOps_Unit_4_5_Notes.pdf) |
+
 ### 📌 Assignments
 
 > _Assignments coming soon_
@@ -98,7 +172,6 @@
 | File | Description |
 |------|-------------|
 | [The DevOps Adoption Playbook](DevOps/Others/Wiley_The_DevOps_Adoption_Playbook_1119308747.pdf) | DevOps Reference Book (Wiley) |
-| [DevOps for Digital Leaders](DevOps/Others/DevOps_for_Digital_Leaders.pdf) | DevOps Reference Book |
 
 ---
 
@@ -111,6 +184,14 @@
 ### 📝 Notes
 
 > _Notes coming soon_
+
+### 📓 PY Notes
+
+| Unit | File |
+|------|------|
+| Unit 1 | [BDNS\_Unit\_1\_Notes.pdf](BDNS/PY%20Notes/BDNS_Unit_1_Notes.pdf) |
+| Unit 2 | [BDNS\_Unit\_2\_Notes.pdf](BDNS/PY%20Notes/BDNS_Unit_2_Notes.pdf) |
+| Unit 2 & 3 | [BDNS\_Unit\_2\_3\_Notes.pdf](BDNS/PY%20Notes/BDNS_Unit_2_3_Notes.pdf) |
 
 ### 📌 Assignments
 
@@ -152,6 +233,12 @@
 ### 📝 Notes
 
 > _Notes coming soon_
+
+### 📓 PY Notes
+
+| Unit | File |
+|------|------|
+| General Notes | [IoT\_General\_Notes.pdf](IoT/PY%20Notes/IoT_General_Notes.pdf) |
 
 ### 📌 Assignments
 
@@ -195,6 +282,15 @@
 
 > _Notes coming soon_
 
+### 📓 PY Notes
+
+| Unit | File |
+|------|------|
+| Unit 1 | [ASPNET\_Unit\_1\_Notes.pdf](ASP.NET/PY%20Notes/ASPNET_Unit_1_Notes.pdf) |
+| Unit 2 | [ASPNET\_Unit\_2\_Notes.pdf](ASP.NET/PY%20Notes/ASPNET_Unit_2_Notes.pdf) |
+| Unit 3 & 4 | [ASPNET\_Unit\_3\_4\_Notes.pdf](ASP.NET/PY%20Notes/ASPNET_Unit_3_4_Notes.pdf) |
+| Unit 4 | [ASPNET\_Unit\_4\_Notes.pdf](ASP.NET/PY%20Notes/ASPNET_Unit_4_Notes.pdf) |
+
 ### 📌 Assignments
 
 > _Assignments coming soon_
@@ -231,6 +327,10 @@
 ### 📝 Notes
 
 > _Notes coming soon_
+
+### 📓 PY Notes
+
+> _PY Notes coming soon_
 
 ### 📌 Assignments
 
