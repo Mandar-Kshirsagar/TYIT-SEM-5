@@ -17,7 +17,7 @@
 
 ## 📊 Dashboard
 
-> Live snapshot of all uploaded resources across subjects. Total: **82 files** across 6 subjects.
+> Live snapshot of all uploaded resources across subjects. Total: **83 files** across 6 subjects.
 
 ### 📦 Files per Subject
 
@@ -26,7 +26,7 @@ xychart-beta
     title "Total Files per Subject"
     x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
     y-axis "Number of Files" 0 --> 25
-    bar [19, 17, 14, 17, 15, 0]
+    bar [19, 17, 14, 17, 16, 0]
 ```
 
 ### 🗂️ Files by Category
@@ -36,7 +36,7 @@ pie title Files by Category
     "PYQs" : 56
     "PY Notes" : 14
     "Practicals" : 6
-    "Others" : 4
+    "Others" : 5
     "Notes" : 2
     "Assignments" : 0
 ```
@@ -67,9 +67,9 @@ xychart-beta
 | DevOps | 0 | 0 | 5 | 0 | 10 | 2 | **17** |
 | BDNS | 0 | 0 | 3 | 0 | 10 | 1 | **14** |
 | IoT | 1 | 0 | 1 | 0 | 15 | 0 | **17** |
-| ASP.NET | 1 | 0 | 4 | 0 | 10 | 0 | **15** |
+| ASP.NET | 1 | 0 | 4 | 0 | 10 | 1 | **16** |
 | OJT | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| **Total** | **6** | **2** | **14** | **0** | **56** | **4** | **82** |
+| **Total** | **6** | **2** | **14** | **0** | **56** | **5** | **83** |
 
 ---
 
@@ -314,7 +314,9 @@ xychart-beta
 
 ### 📂 Others
 
-> _Other resources coming soon_
+| File | Description |
+|------|-------------|
+| [Pro ASP.NET Core 6 — Adam Freeman (Apress, 9th Ed.)](ASP.NET/Others/Pro.ASP.NET.Core.6.9th.Edition.Adam.Freeman.Apress.9781484279564.EBooksWorld.ir.pdf) | Reference Book |
 
 ---
 
