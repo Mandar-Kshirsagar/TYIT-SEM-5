@@ -25,7 +25,10 @@
 
 ### 📝 Notes
 
-> _Notes coming soon_
+| Topic | File |
+|-------|------|
+| Unit 1 - Introduction | [Unit-1-Chapter-1-Introduction.pdf](AI/Notes/Unit-1-Chapter-1-Introduction.pdf) |
+| Chapter 2 - Intelligent Agent | [Chapter-2-Intelligent-Agent.pdf](AI/Notes/Chapter-2-Intelligent-Agent.pdf) |
 
 ### 📌 Assignments
 
