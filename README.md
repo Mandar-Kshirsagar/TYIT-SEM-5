@@ -145,7 +145,9 @@
 
 ### 🔬 Practicals
 
-> _Practicals coming soon_
+| # | Topic | Files |
+|---|-------|-------|
+| 0 | Installation Guide | [Practical\_0\_Installation.pdf](IoT/Practicals/Practical_0_Installation.pdf) |
 
 ### 📝 Notes
 
