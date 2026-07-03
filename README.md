@@ -17,7 +17,7 @@
 
 ## 📊 Dashboard
 
-> Live snapshot of all uploaded resources across subjects. Total: **83 files** across 6 subjects.
+> Live snapshot of all uploaded resources across subjects. Total: **86 files** across 6 subjects.
 
 ### 📦 Files per Subject
 
@@ -26,7 +26,7 @@ xychart-beta
     title "Total Files per Subject"
     x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
     y-axis "Number of Files" 0 --> 25
-    bar [19, 17, 14, 17, 16, 0]
+    bar [22, 17, 14, 17, 16, 0]
 ```
 
 ### 🗂️ Files by Category
@@ -35,7 +35,7 @@ xychart-beta
 pie title Files by Category
     "PYQs" : 56
     "PY Notes" : 14
-    "Practicals" : 6
+    "Practicals" : 9
     "Others" : 5
     "Notes" : 2
     "Assignments" : 0
@@ -63,13 +63,13 @@ xychart-beta
 
 | Subject | 🔬 Practicals | 📝 Notes | 📓 PY Notes | 📌 Assignments | 📄 PYQs | 📂 Others | 📦 Total |
 |---------|:------------:|:--------:|:-----------:|:--------------:|:-------:|:---------:|:--------:|
-| AI | 4 | 2 | 1 | 0 | 11 | 1 | **19** |
+| AI | 7 | 2 | 1 | 0 | 11 | 1 | **22** |
 | DevOps | 0 | 0 | 5 | 0 | 10 | 2 | **17** |
 | BDNS | 0 | 0 | 3 | 0 | 10 | 1 | **14** |
 | IoT | 1 | 0 | 1 | 0 | 15 | 0 | **17** |
 | ASP.NET | 1 | 0 | 4 | 0 | 10 | 1 | **16** |
 | OJT | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| **Total** | **6** | **2** | **14** | **0** | **56** | **5** | **83** |
+| **Total** | **9** | **2** | **14** | **0** | **56** | **5** | **86** |
 
 ---
 
@@ -80,6 +80,7 @@ xychart-beta
 | # | Topic | Files |
 |---|-------|-------|
 | 1 | BFS & DFS Search Algorithms | [BFS Code](AI/Practicals/practical%201/code1-bfs.py) · [BFS Output](AI/Practicals/practical%201/code1-bfs-output.txt) · [DFS Code](AI/Practicals/practical%201/code2-dfs.py) · [DFS Output](AI/Practicals/practical%201/code2-dfs-output.txt) |
+| 4 | Informed Search Algorithms (Greedy & A*) | [Greedy Search](AI/Practicals/practical%204/greedy_search.py) · [A* Search](AI/Practicals/practical%204/a_star.py) · [README](AI/Practicals/practical%204/README.md) |
 
 ### 📝 Notes
 
