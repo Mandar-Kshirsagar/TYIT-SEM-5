@@ -36,7 +36,5 @@ def greedy_search_rec(graph, prev, dst, path, q):
 
 # Execution
 source=input("Enter Source Vertex:")
-q = {}
-path = ['S']
-result = greedy_search_rec(graph, 'S', 'G', path, q)
+result = greedy_search_rec(graph,source, 'G',[source], {})
 print("Resulting Path:", result)
