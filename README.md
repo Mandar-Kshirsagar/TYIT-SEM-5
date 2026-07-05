@@ -151,7 +151,7 @@ xychart-beta
 
 | # | Topic | File |
 |---|-------|------|
-| 1 | DevOps Assignment 1 | [DevOps Assignment-1.pdf](DevOps/Assignments/DevOps%20Assignment-1.pdf) |
+| 1 | DevOps Assignment 1 - 5 | [DevOps Assignment-1.pdf](DevOps/Assignments/DevOps%20Assignment-1.pdf) |
 
 ### 📄 PYQs
 
