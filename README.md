@@ -17,7 +17,7 @@
 
 ## 📊 Dashboard
 
-> Live snapshot of all uploaded resources across subjects. Total: **86 files** across 6 subjects.
+> Live snapshot of all uploaded resources across subjects. Total: **87 files** across 6 subjects.
 
 ### 📦 Files per Subject
 
@@ -26,7 +26,7 @@ xychart-beta
     title "Total Files per Subject"
     x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
     y-axis "Number of Files" 0 --> 25
-    bar [22, 17, 14, 17, 16, 0]
+    bar [22, 18, 14, 17, 16, 0]
 ```
 
 ### 🗂️ Files by Category
@@ -38,7 +38,7 @@ pie title Files by Category
     "Practicals" : 9
     "Others" : 5
     "Notes" : 2
-    "Assignments" : 0
+    "Assignments" : 1
 ```
 
 ### 📈 Category Breakdown per Subject
@@ -64,12 +64,12 @@ xychart-beta
 | Subject | 🔬 Practicals | 📝 Notes | 📓 PY Notes | 📌 Assignments | 📄 PYQs | 📂 Others | 📦 Total |
 |---------|:------------:|:--------:|:-----------:|:--------------:|:-------:|:---------:|:--------:|
 | AI | 7 | 2 | 1 | 0 | 11 | 1 | **22** |
-| DevOps | 0 | 0 | 5 | 0 | 10 | 2 | **17** |
+| DevOps | 0 | 0 | 5 | 1 | 10 | 2 | **18** |
 | BDNS | 0 | 0 | 3 | 0 | 10 | 1 | **14** |
 | IoT | 1 | 0 | 1 | 0 | 15 | 0 | **17** |
 | ASP.NET | 1 | 0 | 4 | 0 | 10 | 1 | **16** |
 | OJT | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| **Total** | **9** | **2** | **14** | **0** | **56** | **5** | **86** |
+| **Total** | **9** | **2** | **14** | **1** | **56** | **5** | **87** |
 
 ---
 
@@ -149,7 +149,9 @@ xychart-beta
 
 ### 📌 Assignments
 
-> _Assignments coming soon_
+| # | Topic | File |
+|---|-------|------|
+| 1 | DevOps Assignment 1 | [DevOps Assignment-1.pdf](DevOps/Assignments/DevOps%20Assignment-1.pdf) |
 
 ### 📄 PYQs
 
