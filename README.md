@@ -17,7 +17,7 @@
 
 ## 📊 Dashboard
 
-> Live snapshot of all uploaded resources across subjects. Total: **87 files** across 6 subjects.
+> Live snapshot of all uploaded resources across subjects. Total: **90 files** across 6 subjects.
 
 ### 📦 Files per Subject
 
@@ -26,7 +26,7 @@ xychart-beta
     title "Total Files per Subject"
     x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
     y-axis "Number of Files" 0 --> 25
-    bar [22, 18, 14, 17, 16, 0]
+    bar [22, 19, 14, 17, 18, 0]
 ```
 
 ### 🗂️ Files by Category
@@ -35,8 +35,8 @@ xychart-beta
 pie title Files by Category
     "PYQs" : 56
     "PY Notes" : 14
-    "Practicals" : 9
-    "Others" : 5
+    "Practicals" : 11
+    "Others" : 6
     "Notes" : 2
     "Assignments" : 1
 ```
@@ -64,12 +64,12 @@ xychart-beta
 | Subject | 🔬 Practicals | 📝 Notes | 📓 PY Notes | 📌 Assignments | 📄 PYQs | 📂 Others | 📦 Total |
 |---------|:------------:|:--------:|:-----------:|:--------------:|:-------:|:---------:|:--------:|
 | AI | 7 | 2 | 1 | 0 | 11 | 1 | **22** |
-| DevOps | 0 | 0 | 5 | 1 | 10 | 2 | **18** |
+| DevOps | 0 | 0 | 5 | 1 | 10 | 3 | **19** |
 | BDNS | 0 | 0 | 3 | 0 | 10 | 1 | **14** |
 | IoT | 1 | 0 | 1 | 0 | 15 | 0 | **17** |
-| ASP.NET | 1 | 0 | 4 | 0 | 10 | 1 | **16** |
+| ASP.NET | 3 | 0 | 4 | 0 | 10 | 1 | **18** |
 | OJT | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| **Total** | **9** | **2** | **14** | **1** | **56** | **5** | **87** |
+| **Total** | **11** | **2** | **14** | **1** | **56** | **6** | **90** |
 
 ---
 
@@ -175,6 +175,7 @@ xychart-beta
 | File | Description |
 |------|-------------|
 | [The DevOps Adoption Playbook](DevOps/Others/Wiley_The_DevOps_Adoption_Playbook_1119308747.pdf) | DevOps Reference Book (Wiley) |
+| [DevOps for Digital Leaders](DevOps/Others/DevOps_for_Digital_Leaders.pdf) | DevOps Reference Book |
 
 ---
 
@@ -279,7 +280,8 @@ xychart-beta
 
 | # | Topic | Files |
 |---|-------|-------|
-| 1 | Practical 1 | [practical1.pdf](ASP.NET/Practicals/practical1.pdf) |
+| 1 | Practical 1 | [practical1.pdf](ASP.NET/Practicals/practical1.pdf) · [ASP\_Practical1.pdf](ASP.NET/Practicals/ASP_Practical1.pdf) |
+| 2 | Practical 2 | [Practical 2.pdf](ASP.NET/Practicals/Practical%202.pdf) |
 
 ### 📝 Notes
 
