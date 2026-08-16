@@ -17,7 +17,7 @@
 
 ## 📊 Dashboard
 
-> Live snapshot of all uploaded resources across subjects. Total: **90 files** across 6 subjects.
+> Live snapshot of all uploaded resources across subjects. Total: **97 files** across 6 subjects.
 
 ### 📦 Files per Subject
 
@@ -26,7 +26,7 @@ xychart-beta
     title "Total Files per Subject"
     x-axis ["AI", "DevOps", "BDNS", "IoT", "ASP.NET", "OJT"]
     y-axis "Number of Files" 0 --> 25
-    bar [22, 19, 14, 17, 18, 0]
+    bar [23, 20, 15, 19, 20, 0]
 ```
 
 ### 🗂️ Files by Category
@@ -35,10 +35,10 @@ xychart-beta
 pie title Files by Category
     "PYQs" : 56
     "PY Notes" : 14
-    "Practicals" : 11
+    "Practicals" : 15
     "Others" : 6
+    "Assignments" : 4
     "Notes" : 2
-    "Assignments" : 1
 ```
 
 ### 📈 Category Breakdown per Subject
@@ -63,13 +63,13 @@ xychart-beta
 
 | Subject | 🔬 Practicals | 📝 Notes | 📓 PY Notes | 📌 Assignments | 📄 PYQs | 📂 Others | 📦 Total |
 |---------|:------------:|:--------:|:-----------:|:--------------:|:-------:|:---------:|:--------:|
-| AI | 7 | 2 | 1 | 0 | 11 | 1 | **22** |
-| DevOps | 0 | 0 | 5 | 1 | 10 | 3 | **19** |
-| BDNS | 0 | 0 | 3 | 0 | 10 | 1 | **14** |
-| IoT | 1 | 0 | 1 | 0 | 15 | 0 | **17** |
-| ASP.NET | 3 | 0 | 4 | 0 | 10 | 1 | **18** |
+| AI | 8 | 2 | 1 | 0 | 11 | 1 | **23** |
+| DevOps | 1 | 0 | 5 | 1 | 10 | 3 | **20** |
+| BDNS | 0 | 0 | 3 | 1 | 10 | 1 | **15** |
+| IoT | 2 | 0 | 1 | 1 | 15 | 0 | **19** |
+| ASP.NET | 4 | 0 | 4 | 1 | 10 | 1 | **20** |
 | OJT | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| **Total** | **11** | **2** | **14** | **1** | **56** | **6** | **90** |
+| **Total** | **15** | **2** | **14** | **4** | **56** | **6** | **97** |
 
 ---
 
@@ -81,6 +81,7 @@ xychart-beta
 |---|-------|-------|
 | 1 | BFS & DFS Search Algorithms | [BFS Code](AI/Practicals/practical%201/code1-bfs.py) · [BFS Output](AI/Practicals/practical%201/code1-bfs-output.txt) · [DFS Code](AI/Practicals/practical%201/code2-dfs.py) · [DFS Output](AI/Practicals/practical%201/code2-dfs-output.txt) |
 | 4 | Informed Search Algorithms (Greedy & A*) | [Greedy Search](AI/Practicals/practical%204/greedy_search.py) · [A* Search](AI/Practicals/practical%204/a_star.py) · [README](AI/Practicals/practical%204/README.md) |
+| — | All AI Practicals | [AI\_practicals.pdf](AI/Practicals/AI_practicals.pdf) |
 
 ### 📝 Notes
 
@@ -147,6 +148,12 @@ xychart-beta
 | Unit 3 & 4 | [DevOps\_Unit\_3\_4\_Notes.pdf](DevOps/PY%20Notes/DevOps_Unit_3_4_Notes.pdf) |
 | Unit 4 & 5 | [DevOps\_Unit\_4\_5\_Notes.pdf](DevOps/PY%20Notes/DevOps_Unit_4_5_Notes.pdf) |
 
+### 🔬 Practicals
+
+| # | Topic | Files |
+|---|-------|-------|
+| — | All DevOps Practicals | [DevOps Practicals.pdf](DevOps/Practicals/DevOps%20Practicals.pdf) |
+
 ### 📌 Assignments
 
 | # | Topic | File |
@@ -199,7 +206,9 @@ xychart-beta
 
 ### 📌 Assignments
 
-> _Assignments coming soon_
+| # | Topic | File |
+|---|-------|------|
+| — | BDNS Assignment | [BDNS Assignment.pdf](BDNS/Assignments/BDNS%20Assignment.pdf) |
 
 ### 📄 PYQs
 
@@ -233,6 +242,7 @@ xychart-beta
 | # | Topic | Files |
 |---|-------|-------|
 | 0 | Installation Guide | [Practical\_0\_Installation.pdf](IoT/Practicals/Practical_0_Installation.pdf) |
+| — | All IoT Practicals | [IOT practicals.pdf](IoT/Practicals/IOT%20practicals.pdf) |
 
 ### 📝 Notes
 
@@ -246,7 +256,9 @@ xychart-beta
 
 ### 📌 Assignments
 
-> _Assignments coming soon_
+| # | Topic | File |
+|---|-------|------|
+| — | IoT Practicals | [IOT practicals.pdf](IoT/Assignments/IOT%20practicals.pdf) |
 
 ### 📄 PYQs
 
@@ -280,8 +292,9 @@ xychart-beta
 
 | # | Topic | Files |
 |---|-------|-------|
-| 1 | Practical 1 | [practical1.pdf](ASP.NET/Practicals/practical1.pdf) · [ASP\_Practical1.pdf](ASP.NET/Practicals/ASP_Practical1.pdf) |
-| 2 | Practical 2 | [Practical 2.pdf](ASP.NET/Practicals/Practical%202.pdf) |
+| 1 | Practical 1 | [practical1.pdf](ASP.NET/Practicals/practical1/practical1.pdf) · [ASP\_Practical1.pdf](ASP.NET/Practicals/practical1/ASP_Practical1.pdf) |
+| 2 | Practical 2 | [Practical 2.pdf](ASP.NET/Practicals/practical2/Practical%202.pdf) |
+| — | All ASP.NET Practicals | [ASP.NET Practical.pdf](ASP.NET/Practicals/ASP.NET%20Practical.pdf) |
 
 ### 📝 Notes
 
@@ -298,7 +311,9 @@ xychart-beta
 
 ### 📌 Assignments
 
-> _Assignments coming soon_
+| # | Topic | File |
+|---|-------|------|
+| — | ASP.NET Assignments | [ASP.NET Assignments.pdf](ASP.NET/Assignments/ASP.NET%20Assignments.pdf) |
 
 ### 📄 PYQs
 
